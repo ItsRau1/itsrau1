@@ -24,9 +24,9 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/ruan-dias-611887238/" target="_blank">
+<a href="https://www.linkedin.com/in/ruan-dias-611887238/" target="_blank" >
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/itsr4ul" target="_blank">
+<a href="https://twitter.com/itsr4ul" target="_blank" >
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
