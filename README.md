@@ -1,4 +1,5 @@
-### <h1 align="left">Hi <img src="./assets/hi.gif" height="30px">, I'm Ruan Dias</h1>
+### <h1 align="left">Hi, I'm Ruan Dias</h1>
+
 ### 👨‍💻 &nbsp;Developer
 
 # 🛠 &nbsp;Tech Stack
