@@ -1,4 +1,4 @@
-### &nbsp; <h1 align="left"><img src="./assets/hi.gif" style="width:3rem;"/> Hi, I'm Ruan Dias</h1>
+### <h1 align="left"><img src="./assets/hi.gif" style="width:3rem;"/> Hi, I'm Ruan Dias</h1>
 
 ### &nbsp;Full Stack Developer
 
