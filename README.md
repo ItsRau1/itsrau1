@@ -1,23 +1,44 @@
-### <h1 align="left"><img src="./assets/hi.gif" style="width:3rem;"/> Hi, I'm Ruan Dias</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Olá, eu sou Ruan Dias
 
-### &nbsp;Full Stack Developer
+## 💼 Perfil Profissional
 
-# &nbsp;🧰 Tech Stack
+- 🏬 Engenheiro de Software na Muralis Assessoria e Tecnologia.
+- 🔭 Explorando novas tecnologias e desenvolvendo soluções escalaveis para sistemas complexos.
+- 💬 Participante do centro de excelência de arquitetura na minha organização.
+- 🌱 Aprendendo sobre Arquitetura e Design Patterns.
 
-![Javascrit](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=SpringBoot)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+## 👨‍💻 Tecnologias e Ferramentas
 
-# &nbsp;👤 Contact
+![Java](https://img.shields.io/badge/Java-767676?style=for-the-badge&logo=coffeescript&logoColor=white)
+&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-767676?style=for-the-badge&logo=SpringBoot&logoColor=white)
+&nbsp;
+![Quarkus](https://img.shields.io/badge/Quarkus-767676?style=for-the-badge&logo=Quarkus&logoColor=white)
+&nbsp;
+![AWS](https://img.shields.io/badge/AWS-767676?style=for-the-badge&logo=AmazonWebServices&logoColor=white)
+&nbsp;
+![Lambda](https://img.shields.io/badge/Lamba-767676?style=for-the-badge&logo=awslambda&logoColor=white)
+&nbsp;
+![S3](https://img.shields.io/badge/S3-767676?style=for-the-badge&logo=amazons3&logoColor=white)
+&nbsp;
+![SQS](https://img.shields.io/badge/SQS-767676?style=for-the-badge&logo=amazonsqs&logoColor=white)
+&nbsp;
+![Typescript](https://img.shields.io/badge/Typescript-767676?style=for-the-badge&logo=Typescript&logoColor=white)
+&nbsp;
+![React](https://img.shields.io/badge/React-767676?style=for-the-badge&logo=React&logoColor=white)
+&nbsp;
+![Next](https://img.shields.io/badge/Next.js-767676?style=for-the-badge&logo=Next.js&logoColor=white)
+&nbsp;
+![Node](https://img.shields.io/badge/Node.js-767676?style=for-the-badge&logo=Node.js&logoColor=white)
+&nbsp;
+![Mysql](https://img.shields.io/badge/Mysql-767676?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🌟 Conquistas
 
-<a href="https://www.linkedin.com/in/ruan-dias-611887238/" target="_blank" >
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/itsr4ul" target="_blank" >
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+- ☁️ Certificação AWS Cloud Practitioner
+
+## 📫 Onde me encontrar?
+
+[![website](https://img.shields.io/badge/Linkedin-767676?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/ruan-dias-dev)
+&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=&logoColor=white)](mailto:ruan.dias77@outlook.com)
